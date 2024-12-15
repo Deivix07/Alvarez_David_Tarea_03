@@ -8,8 +8,8 @@ El objetivo del juego es ganar al elegir la opción que le gane a la opción de 
 ## Vista Previa 👀
 
 <div align="center">
-    <img src="assets/img1.png" alt="Splash Screen" width="150">
-    <img src="assets/img2.png" alt="Menú Principal" width="152">
+    <img src="view/inicio.jpg" width="202">
+    <img src="view/juego.JPG" width="200">
 </div>
 
 ## Requisitos 📝
@@ -23,11 +23,11 @@ Para la versión ejecutable (`.exe`):
 ## Instalación y Ejecución 🛠️
 
 ***Opción 1***: Ejecutar desde el código fuente
-- Clona el repositorio.
+- Clona el **repositorio**.
 - Abre el código en tu editor de texto o IDE favorito.
-- Ejecuta el juego con Python.
+- Ejecuta el juego con **Python**.
 
 ***Opción 2***: Descargar el archivo ejecutable ⬇️
-- Dirígete a la sección dist del proyecto.
-- Descarga el archivo juegoPPT.exe disponible.
-- Haz doble clic sobre el archivo juego.exe para iniciar el juego.
+- Dirígete a la sección **dist** del proyecto.
+- Descarga el archivo **juegoPPT.exe** disponible.
+- Haz doble clic sobre el archivo **juegoPPT.exe** para iniciar el juego.
