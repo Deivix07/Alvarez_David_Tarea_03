@@ -10,9 +10,6 @@ El objetivo del juego es ganar al elegir la opción que le gane a la opción de 
 <div align="center">
     <img src="assets/img1.png" alt="Splash Screen" width="150">
     <img src="assets/img2.png" alt="Menú Principal" width="152">
-    <img src="assets/img3.png" alt="Pantalla de Juego" width="146">
-    <img src="assets/img4.png" alt="Pantalla de Juego" width="142">
-    <img src="assets/img5.png" alt="Pantalla de Juego" width="143">
 </div>
 
 ## Requisitos 📝
@@ -32,5 +29,5 @@ Para la versión ejecutable (`.exe`):
 
 ***Opción 2***: Descargar el archivo ejecutable ⬇️
 - Dirígete a la sección dist del proyecto.
-- Descarga el archivo juego.exe disponible.
+- Descarga el archivo juegoPPT.exe disponible.
 - Haz doble clic sobre el archivo juego.exe para iniciar el juego.
